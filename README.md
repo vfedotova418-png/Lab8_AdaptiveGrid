@@ -21,6 +21,9 @@ ___
     - gitPushLab8_Fedotova.png
     - grid_examplesGrid_Lab8_Fedotova.png
     - grid_examplesGridPractice_Lab8_Fedotova.png
+    - gridPracticeLab8_Fedotova.png
+- grid-practice.css
+- grid-practice.html
 - grid.css
 - gridPractice.css
 - gridPractice.html
